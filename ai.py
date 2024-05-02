@@ -10,7 +10,6 @@ import io
 
 AIO_FEED_ID = "1089043"
 AIO_USERNAME = "billy_nguyen"
-AIO_KEY = "aio_WGSh37LWyOe2DT0vMDRA7kwd73qb"
 
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
