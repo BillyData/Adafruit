@@ -3,9 +3,9 @@ def display_hometown(name):
         "Khang\n":"Quang Nam",
         "Khoa\n":"Huế",
         "Trang\n":"Ha Noi",
-        "Hưng\n":"Quang Ngai",
-        "Bảo\n":"Sai Gon",
-        "Khôi\n":"Tien Giang",
+        "Hung\n":"Quang Ngai",
+        "Bao\n":"Sai Gon",
+        "Khoi\n":"Tien Giang",
         "Background\n":"Nowhere"
     }
     client.publish("Hometown", hometown[name])
